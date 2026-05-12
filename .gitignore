@@ -1,0 +1,20 @@
+# ── ZKP ──────────────────────────────────────
+zkp/build/
+zkp/*.ptau
+zkp/*.zkey
+zkp/*_js/
+zkp/witness.wtns
+zkp/proof.json
+zkp/public.json
+zkp/node_modules/
+
+# ── Load Balancer ─────────────────────────────
+load-balancer/__pycache__/
+load-balancer/**/__pycache__/
+load-balancer/**/*.pyc
+load-balancer/.env
+
+# ── General ───────────────────────────────────
+.DS_Store
+.env
+*.log
