@@ -7,6 +7,7 @@ This repository contains the implementation for the paper:
 > **Scalable and Privacy-Preserving Cloud-Edge Data Sharing Architecture Accelerating Re-Encryption with Auto-Scaling Proxies and Precomputed zkSNARKs**
 > Harid Nutkumhang, Krittin Limotai, Jenwit Thitikawin, Peerapong Vipittragran
 > Sirindhorn International Institute of Technology, Thammasat University, Thailand
+> 
 > 📄 [Read the full paper](./paper.pdf)
 ---
 
